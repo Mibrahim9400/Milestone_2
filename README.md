@@ -23,7 +23,7 @@ This project demonstrates basic Python functionality, including:
 
 ## Usage Instructions
 1. Make sure GitBash is installed. In VSCode, it can be confirmed that Gitbash installed by seeing (base) before the path.
-2. If not download it from [https://git-scm.com/downloads]
+2. If not download it from [Gitbash Offical Website](https://git-scm.com/downloads).
 3. When installed restart your device. Then in search tab look for Gitbash to confirm it fully installed.
 
 ## File Structure
